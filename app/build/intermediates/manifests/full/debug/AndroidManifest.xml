@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.srishti.flickrbrowser"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@mipmap/icon_new"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Flickr" >
+        <activity
+            android:name="com.example.srishti.flickrbrowser.activities.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.srishti.flickrbrowser.activities.SearchActivity"
+            android:label="@string/title_activity_search"
+            android:parentActivityName="com.example.srishti.flickrbrowser.activities.MainActivity"
+            android:theme="@style/Theme.Flickr" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srishti.flickrbrowser.activities.MainActivity" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="com.example.srishti.flickrbrowser.activities.ViewPhotoDetailsActivity"
+            android:label="@string/title_activity_view_photo_details"
+            android:parentActivityName="com.example.srishti.flickrbrowser.activities.MainActivity"
+            android:theme="@style/Theme.Flickr" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srishti.flickrbrowser.activities.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

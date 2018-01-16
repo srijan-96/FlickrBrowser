@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Projects\FlickrBrowser\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_817e080ae214c65ea4c9a491a602156bd17dbd05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\FlickrBrowser\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_3aca73634c7b93b510f7ed9fc8c3891277b20e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\FlickrBrowser\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_0c18fd984102b6e5f691d527979ac103b57654f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\FlickrBrowser\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_7acee955f666f241678d473e3750e59b700a6b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\FlickrBrowser\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_8655191f4f474f4d75f2f09a72e30211cf87398b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\FlickrBrowser\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_d214569a1572652d56041b6a61f7eac41a29c1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Srijan Roy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_8e7e9e6a9289463c8e791575a7cbe0759275b452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Srijan Roy\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_22c3ce0663ddea128d45ec23660bfd6ef1b5466f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\FlickrBrowser\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_06bae0cec7ae9d8eeeb8f8c1a23e50ac286eef35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\FlickrBrowser\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Projects\FlickrBrowser\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_6add9d32505d72c10e55d230d8014c19f866699c.jar" />
+    </item>
+
+</items>

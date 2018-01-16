@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Projects\\FlickrBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "C:\\Projects\\FlickrBrowser\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "C:\\Projects\\FlickrBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Projects\\FlickrBrowser\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]
